@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="front-admin">
+    <output-path>$PROJECT_DIR$/frontend/front-admin/build/libs</output-path>
+    <root id="archive" name="front-admin.jar">
+      <element id="module-output" name="kotlin-multimodule-template.frontend.front-admin.main" />
+    </root>
+  </artifact>
+</component>
