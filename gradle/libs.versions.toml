@@ -1,7 +1,7 @@
 [versions]
 kotlin = "1.6.21"
 ktor = "2.0.3"
-exposed = "0.37.3"
+exposed = "0.38.2"
 koin = "3.2.0"
 coroutines = "1.6.3"
 h2 = "2.1.214"
