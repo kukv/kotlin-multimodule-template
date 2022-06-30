@@ -3,7 +3,7 @@ pluginManagement {
     plugins {
         kotlin("multiplatform") version "1.6.21"
         kotlin("js") version "1.7.0"
-        kotlin("jvm") version "1.6.21"
+        kotlin("jvm") version "1.7.0"
     }
     repositories {
         google()
