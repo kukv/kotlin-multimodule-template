@@ -1,7 +1,7 @@
 enableFeaturePreview("VERSION_CATALOGS")
 pluginManagement {
     plugins {
-        kotlin("multiplatform") version "1.7.0"
+        kotlin("multiplatform") version "1.7.10"
         kotlin("js") version "1.7.0"
         kotlin("jvm") version "1.7.0"
     }
